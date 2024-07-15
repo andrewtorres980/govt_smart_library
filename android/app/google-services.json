@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253356310788",
+    "project_id": "govtlibrary-76e83",
+    "storage_bucket": "govtlibrary-76e83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253356310788:android:04ff26e4732c7f39fc9051",
+        "android_client_info": {
+          "package_name": "com.example.govtsmartlibrary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN9Y4vufSwFMRi927luqjZCb0Q5tY_kTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
