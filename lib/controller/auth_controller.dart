@@ -102,6 +102,7 @@ class AuthController extends GetxController {
         .collection('users')
         .doc(auth.currentUser!.uid)
         .set({
+          "jgjgjgjgjg":"uzser",
       'name': name,
       'nickname': nickname,
       'phone': phone,
